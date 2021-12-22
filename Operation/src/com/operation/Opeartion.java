@@ -12,10 +12,8 @@ public class Additon {
 			int b=sc.nextInt();
 			int sum=a-b;
 			int sub=a-b;
-			int mul=a*b;
 			System.out.println("Sum is: "+sum);
 			System.out.println("Sub is: "+sub);
-			System.out.println("Mult is: "+mul);
 	}
 
 }
