@@ -10,7 +10,9 @@ public class Additon {
 			Scanner sc=new Scanner(System.in);
 			int a=sc.nextInt();
 			int b=sc.nextInt();
+			int sum=a-b;
 			int sub=a-b;
+			System.out.println("Sum is: "+sum);
 			System.out.println("Sub is: "+sub);
 	}
 
